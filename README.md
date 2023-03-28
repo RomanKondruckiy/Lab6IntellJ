@@ -1,0 +1,2 @@
+# Lab6IntellJ
+IPZ
